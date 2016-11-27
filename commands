@@ -1,0 +1,4 @@
+cd /home/rsna/MachineLearningForMedicalImages
+git fetch --all 
+git reset --hard origin/master
+notebook
